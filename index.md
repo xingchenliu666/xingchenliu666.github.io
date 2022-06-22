@@ -4,7 +4,7 @@ layout: about
 
 # About Me
 I'm currently a postdoc researcher at the City University of Hong Kong. <a href="https://xingchenliu666.github.io/CV_LiuXingchen.pdf">Detailed CV</a>
-<p style="color:blue"><a href="https://xingchenliu666.github.io/CV_LiuXingchen.pdf">Detailed CV</a></p>
+
 <br/>
 
 # Education
