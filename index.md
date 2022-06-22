@@ -19,7 +19,6 @@ I'm currently a postdoc researcher at the City University of Hong Kong.
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Research Interests
+* Process Monitoring, Health Management, Reliability
+* Machine Learning  
