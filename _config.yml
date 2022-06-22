@@ -11,32 +11,6 @@ author:
   email: xingchenliu@u.nus.edu
   selfie: assets/img/202204232223133.jpg
 
-# social
-social:
-  email: true
-  behance:
-  bitbucket:
-  dribbble:
-  facebook: Test
-  flickr:
-  github: kssim
-  google_plus:
-  instagram:
-  keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:
-  steam:
-  tumblr:
-  gitlab:
-  twitter: Test
-  vimeo:
-  wordpress:
-  youtube:
-  default_txt: "Follow On"
-
 # Build settings
 markdown: kramdown
 
