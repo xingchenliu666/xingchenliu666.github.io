@@ -48,7 +48,7 @@ layout: about
 </ul>
 
 
-<h2>Publication List</h2>
+<h2>Academic Achievements</h2>
 <h3>Journal Papers (Accepted)</h3>
 <ol>
   <li><b>Liu, X.</b>, Du, J., & Ye, Z.-S. (2022). A covariate-regulated sparse subspace learning model and its application to process monitoring and fault isolation. Technometrics, tentatively accepted. (Top Journal in Industrial Statistics) </li>
