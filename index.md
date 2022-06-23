@@ -68,13 +68,13 @@ layout: about
 </ol> 
 
 <h3>Journal Papers (In Progress)</h3>
-<ol>
+<ol start="11">
   <li>Degradation Modeling for Lithium-ion Battery under Calendar and Cyclic Aging with a Monotonic Spline-Based Wiener Process. </li>
   <li>Degradation analysis using a novel Kalman filter with robustness to distributionally uncertainty and measurement outlier. </li>
 </ol> 
 
 <h3>International Conferences</h3>
-<ol start="11">
+<ol>
   <li><b>Liu, X.</b>, & Ye, Z.-S. (2021). A covariate-regulated sparse subspace learning model and its application to process monitoring and fault isolation. The 3rd International Conference on System Reliability and Safety Engineering (SRSE 2021). </li>
   <li>Yang, L., Li, X., <b>Liu, X.</b>, & Zhu, F., (2022). A Remaining Useful Life Prediction Framework for Aero-engine Using Information Entropy-based Criterion and PCA-RVM. The 13th International Conference on Reliability, Maintainability, and Safety (ICRMS 2022). </li>
 </ol> 
