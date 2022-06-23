@@ -17,6 +17,8 @@ layout: about
 * <a href="http://www-en.hnu.edu.cn/index.htm">Hunan University (HNU)</a> (Sep. 2010 - July 2014)
   * Bachelor in Measurement & Control Technology & Instruments
 
+<br/>
+
 # Work Experience
 * <a href="https://www.cityu.edu.hk/">City University of Hong Kong (CityU)</a> (Jan. 2022 - Dec. 2022)
   * Postdoc. in Advanced Design & Systems Engineering
