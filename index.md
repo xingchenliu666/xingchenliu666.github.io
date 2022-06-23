@@ -3,8 +3,10 @@ layout: about
 ---
 
 <h2>About Me</h2>
-* <a href="https://xingchenliu666.github.io/CV_LiuXingchen.pdf">Curriculum Vitae (CV)</a>
-
+<ul>
+  <li> <a href="https://xingchenliu666.github.io/CV_LiuXingchen.pdf">Curriculum Vitae (CV)</a> </li>
+</ul>
+  
 <h2>Education</h2>
 <ul>
   <li> <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a> (Aug. 2017 - Aug. 2021) 
