@@ -49,9 +49,8 @@ layout: about
 <h2>Publication List</h2>
 <h3>Journal Papers (Accepted)</h3>
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><b>Liu, X.</b>, Du, J., & Ye, Z.-S. (2022). A covariate-regulated sparse subspace learning model and its application to process monitoring and fault isolation. Technometrics, tentatively accepted. (Top Journal in Industrial Statistics) </li>
+  <li><b>Liu, X.</b>, Du, J., & Ye, Z.-S. (2022). A condition monitoring and fault isolation system for wind turbine based on SCADA data. IEEE Transactions on Industrial Informatics, 18(2), 986–995. (Top Journal, IF=10.215) </li>
 </ol>  
 
 <br/>
