@@ -5,8 +5,6 @@ layout: about
 # About Me
 * <a href="https://xingchenliu666.github.io/CV_LiuXingchen.pdf">Curriculum Vitae (CV)</a>
 
-<br/>
-
 # Education
 * <a href="https://www.nus.edu.sg/">National University of Singapore (NUS)</a> (Aug. 2017 - Aug. 2021)
   * Ph.D. in Industrial Systems Engineering & Management
@@ -17,17 +15,15 @@ layout: about
 * <a href="http://www-en.hnu.edu.cn/index.htm">Hunan University (HNU)</a> (Sep. 2010 - July 2014)
   * Bachelor in Measurement & Control Technology & Instruments
 
-<br/>
-
 # Work Experience
 * <a href="https://www.cityu.edu.hk/">City University of Hong Kong (CityU)</a> (Jan. 2022 - Dec. 2022)
   * Postdoc. in Advanced Design & Systems Engineering
   * Supervisor: <a href="https://scholars.cityu.edu.hk/en/persons/min-xie(78688b24-0c92-4a93-b5ad-3db4d20d59eb).html">Chair Prof. XIE Min</a> (Academician of the European Academy of Sciences and Arts)
 
-<br/>
-
 # Research Interests
 * Process Monitoring, Health Management, Reliability
 * Machine Learning  
+
+<br/>
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=56o1a50xcs6&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
