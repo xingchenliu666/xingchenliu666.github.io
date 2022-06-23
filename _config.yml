@@ -1,12 +1,12 @@
 # Site settings
-title: Welcome to Xingchen Liu's Homepage!
+title: Welcome to Liu Xingchen's Homepage!
 baseurl: 
 url: 
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Xingchen LIU
+  name: LIU Xingchen
   desc: Doctor of Philosophy
   email: xingchenliu@u.nus.edu
   selfie: assets/img/202204232223133.jpg
