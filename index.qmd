@@ -23,8 +23,8 @@ about:
 I am currently working as a Research Assistant Professor in the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University. My research interests include condition monitoring, fault diagnosis, prognostics and health management, and machine learning.
 
 ## Opportunities
-
-I am looking for a self-motivated PhD student with strong programming, engineering, and/or mathematical foundations to work with me. If you're interested, please feel free to email me your CV, transcript(s), and a brief description of your research interests. I review all inquires but may only be able to reply to selected candidates.
+<span style="color: red;">I am looking for a self-motivated PhD student with strong programming, engineering, and mathematical foundations to work with me.</span>
+If you're interested, please feel free to email me your CV, transcript(s), and a brief description of your research interests. I review all inquires but may only be able to reply to selected candidates.
 
 ## Research Interests
 - Condition monitoring and fault diagnosis: using statistical machine learning or signal processing methods to monitor the health status of complex systems and diagnose faults.
