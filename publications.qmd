@@ -7,9 +7,9 @@ editor: visual
 ::: {.callout-note}
 ## Links
 
->- **Google Scholar**: <https://scholar.google.com/citations?user=tlkDP2AAAAAJ>
->- **ORCID**: <https://orcid.org/0000-0002-2011-7535>
->- **ResearchGate:** <https://www.researchgate.net/profile/Yujun-Lian>
+>- **Google Scholar**: <https://scholar.google.com/citations?user=dvj0bhwAAAAJ&hl=zh-CN>
+>- **ORCID**: <https://orcid.org/0000-0001-6576-2434>
+>- **ResearchGate:** <https://www.researchgate.net/profile/Xingchen-Liu-15?ev=hdr_xprf>
 :::
 
 &emsp;
