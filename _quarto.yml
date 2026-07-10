@@ -8,7 +8,6 @@ website:
   site-url: https://xingchenliu666.github.io
   favicon: images/Xingchen Liu.jpg
   repo-url: https://github.com/xingchenliu666/xingchenliu666.github.io
-  repo-actions: [edit, issue]
   
   page-footer:
     left: |
@@ -24,16 +23,14 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Miscellaneous"
+        href: miscellaneous.qmd
       - text: "中文"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
 
 format:
   html:

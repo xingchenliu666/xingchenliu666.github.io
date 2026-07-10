@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+## Research Grants
+
+1. Research Grants Council (RGC) of Hong Kong, General Research Fund (GRF), 1523652, Joint Optimization of Fleet-Level Battery Reallocation and Replacement based on Real-Time Health Status Estimation and Prediction under Complex Degradation, 2027.01-2029.12, Funding: HKD 810,114, Ongoing, **Principal Investigator**.
+1. National Natural Science Foundation of China (NSFC), Young Scientists Fund (Type C), 72501245, Health Management of Renewable Energy Systems Considering Complex Operating Conditions and Multiple Uncertainties, 2026.01-2028.12, Funding: RMB 300,000, Ongoing, **Principal Investigator**.
+1. The Hong Kong Polytechnic University, RAP Research Start-up Fund under Stragegic Hiring, P0054859, Monitoring, Diagnosis and Prognostics of Renewable Energy Systems under Complex Operating Conditions, 2025.03-2027.03, Funding: HKD 300,000, Ongoing, **Principal Investigator**.
