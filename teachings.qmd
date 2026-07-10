@@ -4,7 +4,7 @@ title: "Teachings"
 
 ## The Hong Kong Polytechnic University
 
-- ISE330《Product Safety and Reliability》 2025,26 Spring
-- ISE3002《Planning for Production and Service Systems》 2025 Fall
-- ISE369《Quality Engineering》 2025,26 Fall
-- ISE4008 《Undergraduate Individual Project》 2025,26
+- ISE330 (Product Safety and Reliability) 2025,26 Spring
+- ISE3002 (Planning for Production and Service Systems) 2025 Fall
+- ISE369 (Quality Engineering) 2025,26 Fall
+- ISE4008 (Undergraduate Individual Project) 2025,26
