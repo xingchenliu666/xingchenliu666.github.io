@@ -7,9 +7,10 @@ title: "Miscellaneous"
 - Guest editor of Crystals (2025).
 - Session co-chair of the International Conference on System Reliability and Safety Engineering (SRSE 2021-2024).
 - Committee member of the International Conference on Machine Vision and Information Technology (CMVIT 2021-2022).
-- Reviewer around 20 well-known journals, including Technometrics, IISE Transactions, IEEE Transactions on Industrial Informatics, IEEE Transactions on Reliability, IEEE Transactions on Instrument and Measurement,  Reliability Engineering \& System Safety, Measurement, and Engineering Applications of Artificial Intelligence.
+- Reviewer around 20 well-known journals, including Technometrics, IISE Transactions, IEEE Transactions on Industrial Informatics, IEEE Transactions on Reliability, IEEE Transactions on Instrument and Measurement, Reliability Engineering & System Safety, Measurement, and Engineering Applications of Artificial Intelligence.
 
 ## Honors
+
 - Jul. 2023 - Dec. 2024: Research Talent Hub Funding Support from the Innovation and Technology Commission of Hong Kong.
 - Oct. 2023: Best Student Paper Finalist Award, Quality, Statistics and Reliability (QSR) Division, INFORMS Annual Meeting 2023.
 - June 2017: Outstanding Graduates of the University of Science and Technology of China (USTC).
