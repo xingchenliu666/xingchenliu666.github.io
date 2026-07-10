@@ -16,7 +16,7 @@ website:
       Made with [Quarto](https://quarto.org/)<br>
     
   navbar: 
-    background: "#F5D9D5"
+    background: "#87301A"
     search: true
     right: 
       - text: "Home"
