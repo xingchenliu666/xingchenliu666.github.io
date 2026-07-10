@@ -4,8 +4,8 @@ image: images/Xingchen Liu.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
-  image-shape: round
+  image-width: 10em
+  image-shape: rectangle
   links:
     - icon: mailbox
       text: xingcliu@polyu.edu.hk

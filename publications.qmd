@@ -1,14 +1,11 @@
 ---
 title: "Publications"
-editor: visual
 ---
 
+## Journal Articles (partial list as first/corresponding author)
+Note: * indicates the corresponding author.
 
- 
-
-## Journal Articles
-
-1. **Liu, X.**, Lee, C.K.M., Ren, J., & Iqbal, M. (2026). Semi-MCDA-Net: A novel class-specific cross-domain fault diagnosis technique under time-varying speed conditions with limited labeled data. Measurement, 272, 121072.
+1. Iqbal, M., Lee, C.K.M., Ren, J., & **Liu, X.*** (2026). Semi-MCDA-Net: A novel class-specific cross-domain fault diagnosis technique under time-varying speed conditions with limited labeled data. Measurement, 272, 121072.
 1. Zhang, H., **Liu, X.***, Yang, L., & Qian, Y. (2026). Approximate Approaches for Reliability Evaluation and Redundancy Allocation for Large-Scale Multi-State Series-Parallel Systems. Reliability Engineering & System Safety, 271, 112234.
 1. **Liu, X.**, Wang, X., Lee, C.K.M., & Xie, M. (2025). A distribution-free monitoring technique for covariate-regulated processes. Journal of Quality Technology, 1-15.
 1. He, R., **Liu, X.***, Zuo, M., Wang, Y., Tian, Z., & Ye, Z.-S. (2025). A Generative Modeling Method to Quantify the Benefit of Neural-Network-based RUL Predictions to Maintenance. Reliability Engineering & System Safety, 268, 111979.
