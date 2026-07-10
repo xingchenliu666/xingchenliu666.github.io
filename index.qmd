@@ -8,32 +8,14 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
-    - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
+      text: xingcliu@polyu.edu.hk
+      href: mailto:xingcliu@polyu.edu.hk
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
     - icon: 📝
       text: CV
       href: CV.pdf  
@@ -41,14 +23,11 @@ about:
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+男，汉族，现任香港理工大学工业系统工程系助理教授（研究），博士毕业于新加坡国立大学工业系统工程与管理系，导师叶志盛教授，曾任香港城市大学博士后，导师Min XIE 教授(欧洲科学与艺术院院士)，香港科学园可靠性及系统安全研发中心（香港理工大学与美国马里兰大学联合成立）博士后研究员，导师C.K.M. LEE 教授。
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+近五年来，主持3 项项目，包括香港研究资助局优配研究金项目1 项和国家自然科学基金青年项目（C类）1 项，总金额超过140 万港币，并作为核心骨干参与多项由新加坡基金委或香港研究资助局资助、与系统安全和可靠性相关的重点课题。在香港科学园可靠性及系统安全研发中心工作期间，入选香港创新科技署研究人才库并获得了创新及科技基金资助（Research Talent Hub-Innovation and Technology Fund）。
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
-
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
-
+以第一/通讯作者发表高水平期刊论文15 篇（其中JCR 一区14 篇），谷歌学术一作单篇最高被引140 次（截至2026 年6 月），研究成果发表于Technometrics, Journal of Quality Technology, Reliability Engineering& System Safety, IEEE Transactions (TII, TASE) 等质量与可靠性领域权威期刊，曾获得管理科学与运筹学会质量统计可靠性分会最佳学生论文入围奖，担任SCI 期刊Crystals 客座主编，多次担任系统可靠性与安全工程国际会议（SRSE 2021-2024）分会场主席，研究成果在包括风力发电机、光伏发电系统、储能锂电池以及燃气轮机发电系统在内的多种电气设备中得到应用和落地.
 
 ## Background
 
