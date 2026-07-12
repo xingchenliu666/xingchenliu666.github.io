@@ -13,7 +13,7 @@ website:
     left: |
       []()<br>
     right: |
-      Made with [Quarto](https://quarto.org/)<br>
+      []()<br>
     
   navbar: 
     background: "#87301A"

@@ -1,5 +1,5 @@
 ---
-title: "Xingchen Liu"
+title: "Xingchen Liu (刘星辰)"
 image: images/Xingchen Liu.jpg
 about:
   id: hero-heading
