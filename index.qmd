@@ -20,7 +20,7 @@ about:
 
 ::: {#hero-heading}
 
-I am currently working as a Research Assistant Professor in the [Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/ise/people/academic-staff/xingchen-liu/). My research interests include condition monitoring, fault diagnosis, prognostics and health management, and machine learning.
+I am currently serving as a Research Assistant Professor in the [Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/ise/people/academic-staff/xingchen-liu/). My research interests include condition monitoring, fault diagnosis, prognostics and health management, and machine learning.
 
 ## Openings
 <span style="color: red;">I am seeking a highly motivated PhD student to join my research group. A full scholarship will be available for the successful candidate, and I anticipate the position to start in January 2027. </span>
