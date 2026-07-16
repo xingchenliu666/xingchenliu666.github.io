@@ -4,7 +4,7 @@ image: images/XCLiu.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 15em
+  image-width: 100%
   image-shape: rectangle
   links:
     - icon: mailbox
