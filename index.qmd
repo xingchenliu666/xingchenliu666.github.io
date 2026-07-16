@@ -1,10 +1,10 @@
 ---
 title: "Xingchen Liu"
-image: images/XCLiu.jpg
+image: images/Xingchen Liu.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 100%
+  image-width: 60%
   image-shape: rectangle
   links:
     - icon: mailbox
