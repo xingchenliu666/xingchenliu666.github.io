@@ -194,10 +194,25 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Email: xingcliu@polyu.edu.hk (Primary); xingchenliu@u.nus.edu</li>
 <li>Phone: (852) 2766 6580</li>
-<li>Office: E Building, 6th Floor, Room EF612</li>
+<li>Office: E Building, 6-th Floor, Room EF612</li>
 <li>Address: The Hong Kong Polytechnic University, Hong Kong</li>
 </ul>
 <p><a href="https://mapmyvisitors.com/web/1c6le" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?cl=ffffff&amp;w=a&amp;t=tt&amp;d=wcQPxsc3J-9mD9EzFEq04IqQMDfGLUjo88E9hFArejs&amp;co=2d78ad&amp;ct=ffffff"></a></p>
+<p>
+Last update time：<span id="last-modified"></span>
+</p>
+<script>
+    // 获取文档最后修改时间
+    var x = new Date(document.lastModified);
+    // 格式化输出为 YYYY-MM-DD HH:MM
+    var year = x.getFullYear();
+    var month = ('0' + (x.getMonth() + 1)).slice(-2);
+    var day = ('0' + x.getDate()).slice(-2);
+    var hours = ('0' + x.getHours()).slice(-2);
+    var minutes = ('0' + x.getMinutes()).slice(-2);
+    // 将时间填入 span 元素中
+    document.getElementById('last-modified').textContent = year + '-' + month;
+</script>
 </section>
 </div></div>
 </div>
