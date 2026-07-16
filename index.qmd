@@ -50,8 +50,11 @@ If you're interested, please feel free to email me your CV, transcript(s), and a
 - Office: E Building, 6-th Floor, Room EF612
 - Address: The Hong Kong Polytechnic University, Hong Kong
 
-<a href='https://mapmyvisitors.com/web/1c6le'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=wcQPxsc3J-9mD9EzFEq04IqQMDfGLUjo88E9hFArejs&co=2d78ad&ct=ffffff'/></a>
 
+
+<div style="text-align: center;">
+  <a href='https://mapmyvisitors.com/web/1c6le'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=wcQPxsc3J-9mD9EzFEq04IqQMDfGLUjo88E9hFArejs&co=2d78ad&ct=ffffff' width="300"/></a>
+</div>
 
 <p>Last update time：<span id="last-modified"></span></p>
 
