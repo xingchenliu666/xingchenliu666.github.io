@@ -6,7 +6,7 @@ title: "Publications"
 Note: \* indicates the corresponding author.
 
 1. Ding, Y., Lee, C.K.M., **Liu, X.**\*, & Sun, Q. (2026). Semantic-guided label-free multimodal fault diagnosis bridging time-series and textual data with language models. Advanced Engineering Informatics, 77(1), 105198.
-2. Lv, H., **Liu, X.**\*, Wang, D., Hou, B., Zhen, D., & Kong, J.\* (2026). An uncertainty-weighted Bayesian-fusion SVGMR framework for robust battery SOH estimation under partial charging conditions. Journal of Reliability Science and Engineering, accepted.
+2. Lv, H., **Liu, X.**\*, Wang, D., Hou, B., Zhen, D., & Kong, J.\* (2026). An uncertainty-weighted Bayesian-fusion SVGMR framework for robust battery SOH estimation under partial charging conditions. Journal of Reliability Science and Engineering, 2(3), 035304.
 3. Iqbal, M., Lee, C.K.M.\*, Ren, J., & **Liu, X.** \* (2026). Semi-MCDA-Net: A novel class-specific cross-domain fault diagnosis technique under time-varying speed conditions with limited labeled data. Measurement, 272, 121072.
 4. Zhang, H., **Liu, X.**\*, Yang, L., & Qian, Y. (2026). Approximate Approaches for Reliability Evaluation and Redundancy Allocation for Large-Scale Multi-State Series-Parallel Systems. Reliability Engineering & System Safety, 271, 112234.
 5. **Liu, X.**, Wang, X., Lee, C.K.M., & Xie, M. (2025). A distribution-free monitoring technique for covariate-regulated processes. Journal of Quality Technology, 1-15.
