@@ -5,20 +5,20 @@ title: "Publications"
 ## Journal Articles (partial list, as first/corresponding author)
 Note: \* indicates the corresponding author.
 
-1. Ding, Y., Lee, C.K.M., **Liu, X.**\*, & Sun, Q. (2026). Semantic-guided label-free multimodal fault diagnosis bridging time-series and textual data with language models. Advanced Engineering Informatics, 77(1), 105198.
+1. Ding, Y., Lee, C.K.M., **Liu, X.**\*, & Sun, Q. (2027). Semantic-guided label-free multimodal fault diagnosis bridging time-series and textual data with language models. Advanced Engineering Informatics, 77(1), 105198.
 2. Lv, H., **Liu, X.**\*, Wang, D., Hou, B., Zhen, D., & Kong, J.\* (2026). An uncertainty-weighted Bayesian-fusion SVGMR framework for robust battery SOH estimation under partial charging conditions. Journal of Reliability Science and Engineering, 2(3), 035304.
 3. Iqbal, M., Lee, C.K.M.\*, Ren, J., & **Liu, X.** \* (2026). Semi-MCDA-Net: A novel class-specific cross-domain fault diagnosis technique under time-varying speed conditions with limited labeled data. Measurement, 272, 121072.
-4. Zhang, H., **Liu, X.**\*, Yang, L., & Qian, Y. (2026). Approximate Approaches for Reliability Evaluation and Redundancy Allocation for Large-Scale Multi-State Series-Parallel Systems. Reliability Engineering & System Safety, 271, 112234.
+4. Zhang, H., **Liu, X.**\*, Yang, L., & Qian, Y. (2026). Approximate approaches for reliability evaluation and redundancy allocation for large-scale multi-state series-parallel systems. Reliability Engineering & System Safety, 271, 112234.
 5. **Liu, X.**, Wang, X., Lee, C.K.M., & Xie, M. (2026). A distribution-free monitoring technique for covariate-regulated processes. Journal of Quality Technology, 58(1), 110-124.
-6. He, R., **Liu, X.**\*, Zuo, M., Wang, Y., Tian, Z., & Ye, Z.-S. (2025). A Generative Modeling Method to Quantify the Benefit of Neural-Network-based RUL Predictions to Maintenance. Reliability Engineering & System Safety, 268, 111979.
-7. Wei, Y., **Liu, X.**\*, Pan, E., & Ye, Z.-S. (2025). Auxiliary covariate-assisted condition monitoring for machinery. Reliability Engineering & System Safety, 267, 111957.
+6. He, R., **Liu, X.**\*, Wang, Y., Tian, Z., Zuo, M., & Ye, Z.-S. (2026). A generative modeling method to quantify the long-term benefit of neural-network-based RUL predictions to maintenance. Reliability Engineering & System Safety, 268, 111979.
+7. Wei, Y., **Liu, X.**\*, Pan, E., & Ye, Z.-S. (2026). Auxiliary covariate-assisted condition monitoring for machinery. Reliability Engineering & System Safety, 267, 111957.
 8. **Liu, X.**, Lee, C.K.M., Huang, J., & Sun, Q. (2025). Online Robustness Degradation Analysis with Measurement Outlier. IEEE Transactions on Instrumentation and Measurement, 74, 1-12.
-9. **Liu, X.**, Lee, C.K.M., Zhang, H., Chen, P., Huang, J., & Wong, C. (2024). Fault diagnosis based on incomplete sensor variables with a hierarchical semi-supervised Gaussian mixture classifier. Applied Mathematical Modeling, 138, 115764.
-10. **Liu, X.**, Hu, Z., Mao, L., & Xie, M. (2024). Adaptive State of Health Estimation for Lithium-ion Battery with Partially Unlabeled and Incomplete Charge Curves. IEEE Transactions on Transportation Electrification, 11(2), 6165-6176.
+9. **Liu, X.**, Lee, C.K.M., Zhang, H., Chen, P., Huang, J., & Wong, C. (2025). Fault diagnosis based on incomplete sensor variables with a hierarchical semi-supervised Gaussian mixture classifier. Applied Mathematical Modelling, 138, 115764.
+10. **Liu, X.**, Hu, Z., Mao, L., & Xie, M. (2025). Adaptive State of Health Estimation for Lithium-ion Battery with Partially Unlabeled and Incomplete Charge Curves. IEEE Transactions on Transportation Electrification, 11(2), 6165-6176.
 11. **Liu, X.**, Wang, X., Xie, M., & Ye, Z.-S. (2024). Robust Degradation State Identification in the Presence of Parameter Uncertainty and Outliers. IEEE Transactions on Industrial Informatics, 20(2), 2644-2652.
 12. **Liu, X.**, Hu, Z., Wang, X., & Xie, M. (2024). Capacity Degradation Assessment of Lithium-ion Battery Considering Coupling Effects of Calendar and Cycling Aging. IEEE Transactions on Automation Science and Engineering, 21(3), 3052-3064.
-13. **Liu, X.**, Du, J., & Ye, Z.-S. (2022). A covariate-regulated sparse subspace learning model and its application to process monitoring and fault isolation. Technometrics, 65(2), 269-280.
-14. **Liu, X.**, Du, J., & Ye, Z.-S. (2021). A condition monitoring and fault isolation system for wind turbine based on SCADA data. IEEE Transactions on Industrial Informatics, 18(2), 986-995.
+13. **Liu, X.**, Du, J., & Ye, Z.-S. (2023). A covariate-regulated sparse subspace learning model and its application to process monitoring and fault isolation. Technometrics, 65(2), 269-280.
+14. **Liu, X.**, Du, J., & Ye, Z.-S. (2022). A condition monitoring and fault isolation system for wind turbine based on SCADA data. IEEE Transactions on Industrial Informatics, 18(2), 986-995.
 15. **Liu, X.**, Sun, Q., Ye, Z.-S., & Yildirim, M. (2021). Optimal multi-type inspection policy for systems with imperfect online monitoring. Reliability Engineering & System Safety, 207, 107335.
 16. **Liu, X.**, Hu, Z., He, Q., Zhang, S., & Zhu, J. (2017). Doppler distortion correction based on microphone array and matching pursuit algorithm for a wayside train bearing monitoring system. Measurement Science and Technology, 28(10), 105006.
-17. **Liu, X.**, Hu, Z., He, Q., & Zhu, J. (2017). Doppler distortion correction method based on rotation matching of time-frequency ridge lines. Journal of Vibration and Shock, 2017, 17. (EI)
+17. **Liu, X.**, Hu, Z., He, Q., & Zhu, J. (2017). Doppler distortion correction method based on rotation matching of time-frequency ridge lines. Journal of Vibration and Shock, 36(17), 29-34. (EI)
