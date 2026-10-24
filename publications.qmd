@@ -6,7 +6,7 @@ title: "Publications"
 Note: \* indicates the corresponding author.
 
 1. Ding, Y., Lee, C.K.M., **Liu, X.**\*, & Sun, Q. (2027). Semantic-guided label-free multimodal fault diagnosis bridging time-series and textual data with language models. Advanced Engineering Informatics, 77(1), 105198.
-2. Hou, Z., Lee, C.K.M., Iqbal, M., & **Liu, X.**\* (2026). Hierarchical channel–temporal dual-attention fusion conditional mamba for RUL prediction under time-varying operating conditions. Measurement, 123665.
+2. Hou, Z., Lee, C.K.M.\*, Iqbal, M., & **Liu, X.**\* (2026). Hierarchical channel–temporal dual-attention fusion conditional mamba for RUL prediction under time-varying operating conditions. Measurement, 123665.
 3. Ding, Y., Wang, C., Zhang, H., & **Liu, X.**\* (2026). Uncertainty-Aware Continual Learning for Class-Added Multimodal Industrial Diagnosis with Time-Series and Textual Data. Reliability Engineering & System Safety, 113569.
 4. Lv, H., **Liu, X.**\*, Wang, D., Hou, B., Zhen, D., & Kong, J.\* (2026). An uncertainty-weighted Bayesian-fusion SVGMR framework for robust battery SOH estimation under partial charging conditions. Journal of Reliability Science and Engineering, 2(3), 035304.
 5. Iqbal, M., Lee, C.K.M.\*, Ren, J., & **Liu, X.** \* (2026). Semi-MCDA-Net: A novel class-specific cross-domain fault diagnosis technique under time-varying speed conditions with limited labeled data. Measurement, 272, 121072.
